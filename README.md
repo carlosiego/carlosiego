@@ -1,30 +1,20 @@
 Hi 👋 My name is Carlos
 ==========================
 
-Data Science Junior
+Developer Front End
 -----------------------------
 
-I am a 22 year old developer. I love coding and figuring out how to solve problems using machine learning. My main focus is data science, doing analysis and bringing insights that positively impact the company and customers
+I'm a 22 year old developer, I'm in my second semester of computer science college. And I'm looking for my first job. My main focus is web development.
 
-I'm also a 22-year-old student at a data science college that I complete in 2024.1
 
 * 🌍  I'm based in Bahia, Brazil
 * ✉️  You can contact me at [carlosiego2017@gmail.com](mailto:carlosiego2017ail.com)
-* 🧠  I'm learning machine learning
+* 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is football
 
 <a href="https://github.com/carlosiego" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/carlosiego?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
-
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-2C2D72?style=for-the-badge&logo=python&logoColor=black" width="36" height="36" alt="Python /></a>
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="36" height="36" alt="Pandas" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="36" alt="Rust" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="36" height="36" alt="Typescript" /></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src=https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white width="36" height="36" alt="HTML5" /></a>
 
 
 ### Socials
