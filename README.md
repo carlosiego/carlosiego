@@ -4,7 +4,7 @@ Hi 👋 My name is Carlos
 Developer Front End
 -----------------------------
 
-I'm a 22 year old developer, I'm in my third semester of computer science college. And I'm looking for my first job. My main focus is web development.
+I'm a 22 year old developer, I'm in my third semester of computer science college. And I am currently working with tech support. My main focus is software development.
 
 
 * 🌍  I'm based in Bahia, Brazil
