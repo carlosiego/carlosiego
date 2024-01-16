@@ -4,7 +4,7 @@ Hi 👋 My name is Carlos
 Software Developer
 -----------------------------
 
-I'm a 22 year old developer, I'm in my third semester of computer science college. And I am currently working with tech support. My main focus is software development.
+I'm a 23 year old developer, I'm in my Fifth semester of computer science college. And I am currently working with tech support. My main focus is software development.
 
 
 * 🌍  I'm based in Bahia, Brazil
